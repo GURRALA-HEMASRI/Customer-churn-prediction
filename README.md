@@ -4,6 +4,9 @@ A production-ready **Customer Churn Prediction System** built using **Machine Le
 This project predicts whether a customer is likely to churn based on behavioral and service usage data.
 
 ---
+## 🔥 Frontend Preview
+### Dashboard Dark Mode
+![image alt](https://github.com/GURRALA-HEMASRI/Customer-churn-prediction/blob/899f7917018395ba27291e694b2e5a282c79d34e/Screenshot%202026-05-12%20170739.png)
 
 ## 📌 Overview
 
