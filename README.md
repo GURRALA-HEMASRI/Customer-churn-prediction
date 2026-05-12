@@ -161,8 +161,8 @@ npm run dev
 
 **Gurrala Hema Sri**
 📍 Hyderabad, India
-🔗 GitHub: https://github.com/manmohangithub
-🔗 LinkedIn: https://www.linkedin.com/in/manmohanreddy1111
+🔗 GitHub: https://github.com/GURRALA-HEMASRI
+🔗 LinkedIn: https://www.linkedin.com/in/hemasrigurrala11
 
 ---
 
