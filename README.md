@@ -8,6 +8,11 @@ This project predicts whether a customer is likely to churn based on behavioral 
 ### Dashboard Dark Mode
 ![image alt](https://github.com/GURRALA-HEMASRI/Customer-churn-prediction/blob/899f7917018395ba27291e694b2e5a282c79d34e/Screenshot%202026-05-12%20170739.png)
 
+### Dashboard Light Mode
+![image alt]( https://github.com/GURRALA-HEMASRI/Customer-churn-prediction/blob/bda2421eba17d44e40467527fae85ee4da1ed9c7/Screenshot%202026-05-12%20170825.png)
+
+### Result
+
 ## 📌 Overview
 
 Customer churn is a critical problem in telecom and subscription businesses.
