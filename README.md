@@ -12,7 +12,7 @@ This project predicts whether a customer is likely to churn based on behavioral 
 ![image alt]( https://github.com/GURRALA-HEMASRI/Customer-churn-prediction/blob/bda2421eba17d44e40467527fae85ee4da1ed9c7/Screenshot%202026-05-12%20170825.png)
 
 ### Result
-![image alt] ( https://github.com/GURRALA-HEMASRI/Customer-churn-prediction/blob/e1199ea1dd1b44006ac6ac3f7b6df8a4f678b04c/Screenshot%202026-05-12%20171022.png)
+![image alt](https://github.com/GURRALA-HEMASRI/Customer-churn-prediction/blob/4f681ea5ecebeadd11fd048681d900a38f387f80/Screenshot%202026-05-12%20171022.png)
 
 ## 📌 Overview
 
